@@ -1,0 +1,19 @@
+[
+  {
+    "role": "LeetCode",
+    "experiences": [
+      "Among top 25% on LeetCode",
+      "Solved over 300+ problems with a rating around 1600"
+    ],
+    "imageSrc": "history/LeetCode_logo.png",
+    "profileLink": "https://leetcode.com/drift_23"
+  },
+  {
+    "role": "CodeChef",
+    "experiences": [
+      "Solved 100+ problems with a 1509 rating"
+    ],
+    "imageSrc": "history/cc-logo.png",
+    "profileLink": "https://www.codechef.com/users/drift_23"
+  }
+]

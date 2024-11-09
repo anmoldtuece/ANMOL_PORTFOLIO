@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Sorting Visualiser",
+      "imageSrc": "projects/project.png",
+      "description": "A tool that visually demonstrates sorting algorithms, comparing their efficiency in real-time.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://anmoldtuece.github.io/sorting_algo_visualizer/",
+      "source": "https://github.com/anmoldtuece/sorting_algo_visualizer?tab=readme-ov-file"
+    },
+    {
+      "title": "Snake Game",
+      "imageSrc": "projects/project.png",
+      "description": "A classic snake game designed to run on PC, where players control a snake to eat food and grow, avoiding collisions with walls and its own tail.",
+      "skills": ["Html", "CSS", "JS", "React"],
+      "demo": "https://anmoldtuece.github.io/snake_game/",
+      "source": "https://github.com/anmoldtuece/snake_game"
+    }
+  ]
